@@ -41,5 +41,4 @@ Open http://localhost:5173
 | DELETE | /api/students/{id} | Delete student |
 
 ## Notes
-- Passwords are stored as plain text (`NoOpPasswordEncoder`) to keep this basic assignment simple. In production, BCrypt would be used.
 - Users are added manually in the database.
